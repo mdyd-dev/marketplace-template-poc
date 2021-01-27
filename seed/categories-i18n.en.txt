@@ -1,0 +1,25 @@
+---
+en:
+  categories:
+    jewellery: Jewellery
+    jewellery/accessories: Accessories
+    jewellery/accessories/brooches: Brooches
+    jewellery/anklets: Anklets
+    jewellery/artificial_jewellery: Artificial Jewellery
+    jewellery/earrings: Earrings
+    jewellery/hair_accessories: Hair Accessories
+    jewellery/jewellery_sets: Jewellery Sets
+    jewellery/mangalsutras_n_tanmaniyas: Mangalsutras & Tanmaniyas
+    jewellery/necklaces_n_chains: Necklaces & Chains
+    jewellery/necklaces_n_chains/chains: Chains
+    jewellery/necklaces_n_chains/necklaces: Necklaces
+    jewellery/nose_rings_n_studs: Nose Rings & Studs
+    jewellery/pendants_n_lockets: Pendants & Lockets
+    jewellery/precious_jewellery: Precious Jewellery
+    jewellery/rings: Rings
+    watches: Watches
+    watches/clocks: Clocks
+    watches/clocks/table_clocks: Table Clocks
+    watches/watch_accessories: Watch Accessories
+    watches/watch_accessories/wrist_bands: Wrist Bands
+    watches/wrist_watches: Wrist Watches
